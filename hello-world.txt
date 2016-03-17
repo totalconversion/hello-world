@@ -1,4 +1,4 @@
-test hello
-change new line
-after feature added
-добавлено после ветвления в основной
+test hello;
+change new line;
+after feature added;
+добавлено после ветвления в основной;
