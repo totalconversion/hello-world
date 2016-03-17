@@ -2,3 +2,4 @@ test hello
 change new line
 after feature added
 добавлено после ветвления в основной
+привет конфликты
